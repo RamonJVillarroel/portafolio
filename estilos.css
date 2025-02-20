@@ -107,7 +107,7 @@ header a:hover{
 
 .tres{
     background-color: #303030;
-    height: 900px;
+    height: 100%;
     display: flex;
    
     justify-content: flex-start;
@@ -198,7 +198,9 @@ footer{
     }
     .tres{
         height: auto;
+        text-align: center;
     }
+ 
     .proyectos{
         flex-direction: column;
         width: 100%;
